@@ -10,7 +10,7 @@ Git Repository: <https://github.com/Felix-gto/drums>
 
 ---
 
-Access Website: <https://felix-gto.github.io/drums/>
+Check out the Website: <https://felix-gto.github.io/drums/>
 
 ---
 
