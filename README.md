@@ -1,6 +1,6 @@
 # Drum Kit
 
-#### A simple website where you can play some drum sounds using your keyboard mouse 🙂.  
+#### A simple website where you can play some drum sounds using your keyboard or mouse 🙂.  
 ### This website was part of the curriculum of the Udemy Course:  
 ### [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) 
 
